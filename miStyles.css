@@ -1,0 +1,59 @@
+.container_Encabezado
+{
+    display: flex;
+    gap: 20px;
+    flex-direction: row;
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: right;
+    margin: 0 50px;
+    height: 60px;
+
+
+}
+.item-Encabezado
+{
+    padding: 10PX;
+}
+.mipresentacion
+{
+    display: flex;
+    gap: 30px;
+    color: #464646;
+}
+.imagenPerfil
+{
+    width: 170px;
+    border-radius: 100%;
+}
+.container_InformacionPrincipal
+{
+    margin: 0 50px;
+    color: #464646;
+}
+.subtituloSkills
+{
+    display: flex;
+    justify-content: center;
+}
+.skills{
+    display: flex;
+    flex-direction:row;
+    gap: 15px;
+
+}
+.item_Skills
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    flex-direction:column;
+}
+.item_Skills_img
+{
+    width: 50px;
+}
+.container_skills
+{
+    
+}
